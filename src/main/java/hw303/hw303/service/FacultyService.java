@@ -1,6 +1,5 @@
 package hw303.hw303.service;
 
-
 import hw303.hw303.Faculty;
 
 public interface FacultyService {

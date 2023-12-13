@@ -1,6 +1,5 @@
 package hw303.hw303.controller;
 
-
 import hw303.hw303.Faculty;
 import hw303.hw303.service.FacultyService;
 import org.springframework.http.HttpStatus;
